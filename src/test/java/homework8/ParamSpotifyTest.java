@@ -18,7 +18,6 @@ import static com.codeborne.selenide.Selectors.byText;
 public class ParamSpotifyTest {
 
 
-
     @CsvSource(value = {
             "Metallica, Metallica и не только.",
             "Blur, Blur и не только."
